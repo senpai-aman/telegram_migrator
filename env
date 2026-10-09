@@ -1,0 +1,10 @@
+#update the configuration as mentioned in README
+export TG_API_ID="YOUR_API_ID"
+export TG_API_HASH="YOUR_API_HASH"
+
+# Numeric Telegram channel IDs
+export TG_SOURCE="@src_channel_num_id"
+export TG_DEST="@dest_channel_num_id"
+
+# 0 = unlimited messages
+export TG_MAX_POSTS=0

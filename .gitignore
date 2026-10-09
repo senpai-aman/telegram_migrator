@@ -1,0 +1,9 @@
+.venv/
+*.session
+*.session-journal
+migration.sqlite3
+migration.sqlite3-journal
+migration.sqlite3-wal
+migration.sqlite3-shm
+__pycache__/
+*.py[cod]
